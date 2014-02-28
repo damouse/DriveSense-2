@@ -20,58 +20,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MapRootViewController.m"
-            timestampString = "415094125.521047"
+            timestampString = "415249201.010481"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "107"
-            endingLineNumber = "107"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
             landmarkName = "-showTrips:"
-            landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[MapRootViewController showTrips:]"
-                  moduleName = "DriveSense_iOS"
-                  urlString = "file:///Users/Damouse/Documents/Projects/Drive%20Sense/DriveSense-lecture2/MapRootViewController.m"
-                  timestampString = "415094142.281305"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "107"
-                  endingLineNumber = "107"
-                  offsetFromSymbolStart = "178">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[MapRootViewController showTrips:]"
-                  moduleName = "DriveSense_iOS"
-                  urlString = "file:///Users/Damouse/Documents/Projects/Drive%20Sense/DriveSense-lecture2/MapRootViewController.m"
-                  timestampString = "415094142.281453"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "107"
-                  endingLineNumber = "107"
-                  offsetFromSymbolStart = "847">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MapRootViewController.m"
-            timestampString = "415094125.521047"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "145"
-            endingLineNumber = "145"
-            landmarkName = "-mapView:rendererForOverlay:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -82,12 +36,58 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MapRootViewController.m"
-            timestampString = "415094125.521047"
+            timestampString = "415249201.010481"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "173"
-            endingLineNumber = "173"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
             landmarkName = "-drawRouteForCoordinates:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MapRootViewController drawRouteForCoordinates:]"
+                  moduleName = "DriveSense_iOS"
+                  urlString = "file:///Users/Damouse/Documents/Projects/Drive%20Sense/DriveSense-Tutorial-3/MapRootViewController.m"
+                  timestampString = "415249322.454444"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MapRootViewController drawRouteForCoordinates:]"
+                  moduleName = "DriveSense_iOS"
+                  urlString = "file:///Users/Damouse/Documents/Projects/Drive%20Sense/DriveSense-Tutorial-3/MapRootViewController.m"
+                  timestampString = "415249322.45484"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DriveSense_iOS/TripRecorder.m"
+            timestampString = "415249262.152638"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "-locationManager:didUpdateLocations:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>

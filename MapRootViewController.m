@@ -105,7 +105,8 @@
     NSArray *trips = [[TripRecorder recorder] getTrips];
     
     for(Trip *trip in trips) {
-        [self drawRouteForCoordinates:[trip coordinates]];
+        NSOrderedSet *coordinates = [trip coordinates];
+        [self drawRouteForCoordinates:coordinates];
         [self dropPinForCoordinate:[trip startCoordinate]];
         [self dropPinForCoordinate:[trip endCoordinate]];
     }
